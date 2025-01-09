@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { useContentStore } from "../store/content";
 import axios from "axios";
-import Navbar from "../components/NavBar";
+import Navbar from "../components/Navbar";
 import { Search } from "lucide-react";
 import toast from "react-hot-toast";
 import { Link } from "react-router-dom";
